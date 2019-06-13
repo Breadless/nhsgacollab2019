@@ -17,7 +17,7 @@ We gather here to collaborate on a video game project of unknown nature, for the
  - Planned expansion to art team depending on project scale
  - Considered additions:
     - Connor Pugh (), 3D Artist
-    - Beatrix (Last Name Unknown) (), 2D Artist
+    - Beatrix Dergis (), 2D Artist
 
 **Sound**
  - Justin Lui [Pending Acceptance] (), Sound Lead
